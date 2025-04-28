@@ -4,11 +4,12 @@
 
 | Archivos | Contenidos |
 |--|--|
-| Index ||
-| Main ||
-| Style ||
-| Font |  |
-| Script |  |
+| Index |https://github.com/Sarasofia1214/QuizJavaScript_S1_DiazSara/blob/master/main.html|
+| Style |https://github.com/Sarasofia1214/QuizJavaScript_S1_DiazSara/tree/master/styles|
+| Font | https://github.com/Sarasofia1214/QuizJavaScript_S1_DiazSara/tree/master/fonts |
+| Script | https://github.com/Sarasofia1214/QuizJavaScript_S1_DiazSara/tree/master/script |
+| Imagenes | https://github.com/Sarasofia1214/QuizJavaScript_S1_DiazSara/tree/master/script](https://github.com/Sarasofia1214/QuizJavaScript_S1_DiazSara/tree/master/img |
+
 
 
 # **Instalación**
