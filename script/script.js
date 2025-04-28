@@ -7,7 +7,6 @@ async function llamarAPI(){
             let data = JSON.parse(xhr.responseText)
             let retornar=document.getElementById("city")
             retornar.innerHTML = `<p>${data["location"]["name"]}</p>`
-            console.log(retornar)
         }
     }
 }
