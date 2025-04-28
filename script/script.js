@@ -8,13 +8,17 @@ async function ubicacion (){
     let data = await clima();
     let place = document.getElementById("city");
     let grad=document.getElementById("grades");
+    let gradtext=document.getElementById("text_grades");
 
     let city = data["location"]["name"];
     let country = data["location"]["country"];
     let grados= data["current"]["temp_c"];
+    let grades_text= data["current"]["temp_c"];
 
+  
     grad.textContent = (Math.trunc(grados)+"°")
     place.textContent = (city + ', ' + country)
+    gradtext.textContent = ("Feels like "+ grades_text )
 
 }
 ubicacion()

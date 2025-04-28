@@ -213,12 +213,14 @@ a{
     font-family: "Font2";
     font-size: 20vw;
     left: 4vw;
-    top: 19vw;
+    top: 27vw;
 }
 #text_grades{
     position: absolute;
     color: aliceblue;
     font-family: "Font2";
-    font-size: 2vw;
+    font-size: 4vw;
+    left: 34vw;
+    top: 44vw;
 
 }
