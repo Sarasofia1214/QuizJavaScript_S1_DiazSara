@@ -6,6 +6,12 @@
     font-family: "Font2";
     src: url(../fonts/OpenSans-Medium.ttf);
 }
+@font-face{
+    font-family: "Font3";
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+
 
 
 body{
@@ -190,5 +196,29 @@ a{
 #city{
     position: absolute;
     color: aliceblue;
+    font-size: 4vw;
+    font-family: "Font2";
+    left: 4vw;
+    top: 6vw;
+}
+#search{
+    position: absolute;
+    color: aliceblue;
+    font-family: "Font2";
     font-size: 2vw;
+}
+#grades{
+    position: absolute;
+    color: aliceblue;
+    font-family: "Font2";
+    font-size: 20vw;
+    left: 4vw;
+    top: 19vw;
+}
+#text_grades{
+    position: absolute;
+    color: aliceblue;
+    font-family: "Font2";
+    font-size: 2vw;
+
 }
